@@ -1,4 +1,5 @@
-Verified contract address: https://rinkeby.etherscan.io/address/0xa7f38fcc712997f0f96D22Be005F1F2738a58425
+Verified contract address: https://rinkeby.etherscan.io/address/0x6Aa9CF4fE2901C7a9bddCA381BB57382c1E027Cf
+Verified contract address: https://rinkeby.etherscan.io/address/0xA3443312DeFd49C225d61c4A2A403e4b1503406e
 
 ## Deploy:
 * `npx hardhat run --network bsc scripts/deploy.ts`
