@@ -1,0 +1,38 @@
+{
+  "name": "eth-voting",
+  "version": "1.0.0",
+  "description": "Smart contract for voting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@typechain/ethers-v5": "^10.0.0",
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "^17.0.23",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.3",
+    "solidity-coverage": "^0.7.20",
+    "ts-node": "^10.7.0",
+    "typechain": "^8.0.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@openzeppelin/contracts": "^4.5.0",
+    "@prb/math": "^2.5.0",
+    "@typechain/hardhat": "^6.0.0",
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/v2-core": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "hardhat-gas-reporter": "^1.0.8",
+    "uniswap": "0.0.1"
+  }
+}
